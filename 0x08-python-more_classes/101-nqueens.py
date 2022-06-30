@@ -1,13 +1,9 @@
 #!/usr/bin/python3
 # 101-nqueens.py
-# Brennan D Baraban <375@holbertonschool.com>
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N
-N non-attacking queens on an NxN chessboard.
-
-Example:
-    $ ./101-nqueens.py N
+N non-attacking queens on an NxN chessboard
 
 N must be an integer greater than or equal to 4.
 
