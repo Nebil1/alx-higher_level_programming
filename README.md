@@ -1,4 +1,4 @@
-<h2> alx-higher_level_programming <h2>
+alx-higher_level_programming
 
 Higher-level programming - Python, Databases & JavaScript
 
